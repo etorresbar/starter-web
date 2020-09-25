@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Eduardo etorresbar@gmail.com
 
 # THANKS
 
