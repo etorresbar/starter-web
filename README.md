@@ -12,4 +12,5 @@ This is a test text
 
 ## Copyright
 Git.training
-Pleas dont delete the copyright
+Pleas dont delete the copyright.
+All rights reserved
